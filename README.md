@@ -1,2 +1,2 @@
 # Dout
-Repositório de dados e informações do Doutorado
+Repositório criado para a centralização de dados e informações do Doutorado.
